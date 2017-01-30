@@ -27,3 +27,4 @@ johanbrook:publication-collector
 dburles:factory
 practicalmeteor:mocha
 practicalmeteor:chai
+dispatch:mocha-phantomjs
